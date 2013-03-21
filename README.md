@@ -1,3 +1,6 @@
+This is the first application for
+[*RoR Tutorial*](http://railstutorial.org) by [M Hartl](http://michaelhartl.com).
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
